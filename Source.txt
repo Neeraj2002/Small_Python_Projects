@@ -1,5 +1,6 @@
 snakegame.py: https://www.youtube.com/watch?v=5tvER0MT14s
 calculator.py: https://www.youtube.com/watch?v=QZPv1y2znZo
+TypingGame.py: 
 
 These code does not belong to me 
 I was just learnig from YT channels and made projects along with the tutorial!
