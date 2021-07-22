@@ -1,6 +1,7 @@
 snakegame.py: https://www.youtube.com/watch?v=5tvER0MT14s
 calculator.py: https://www.youtube.com/watch?v=QZPv1y2znZo
 TypingGame.py: 
+Tic_Tac_Toe.py = https://www.youtube.com/watch?v=4F2m91eKmts&t=17635s
 
 These code does not belong to me 
 I was just learnig from YT channels and made projects along with the tutorial!
